@@ -1,0 +1,3 @@
+[submodule "crawlerrb"]
+	path = crawlerrb
+	url = https://github.com/podvio/sdk-podvio-ruby.git
